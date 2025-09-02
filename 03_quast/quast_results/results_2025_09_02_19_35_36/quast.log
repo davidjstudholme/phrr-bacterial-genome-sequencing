@@ -1,0 +1,142 @@
+/data/djs217/miniconda3/envs/quast_env/bin/quast.py GCA_040719245.2_NCPPB4602v2_genomic.fna GCA_041228055.1_NCPPB4692v1_genomic.fna GCA_041228085.2_NCPPB935v2_ONT_genomic.fna GCA_041228105.1_NCPPB929v1_ONT_genomic.fna GCA_041228115.3_NCPPB3728v2_ONT_genomic.fna GCA_041463605.1_NCPPB3796v1_ONT_genomic.fna GCA_041463615.1_NCPPB3795v1_ONT_genomic.fna GCA_041463625.1_NCPPB2372v1_ONT_genomic.fna GCA_041463635.1_NCPPB3797v1_ONT_genomic.fna GCA_041463645.1_NCPPB3887v1_ONT_genomic.fna GCA_041463755.1_NCPPB3886v1_ONT_genomic.fna GCA_041464225.1_NCPPB416v1_ONT_genomic.fna GCA_041484315.1_NCPPB1939v1_ONT_genomic.fna GCA_041486685.1_NCPPB581_v2_ONT_genomic.fna GCA_041489455.1_NCPPB3948v1_ONT_genomic.fna GCA_041734835.1_NCPPB3727v1_ONT_genomic.fna GCA_041734965.1_NCPPB3725v1_ONT_genomic.fna
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-5.15.0-143-generic-x86_64-with-glibc2.35 (linux_64)
+  Python version: 3.12.7
+  CPUs number: 32
+
+Started: 2025-09-02 19:35:36
+
+Logging to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/quast.log
+NOTICE: Maximum number of threads is set to 8 (use --threads option to set it manually)
+
+CWD: /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast
+Main parameters: 
+  MODE: default, threads: 8, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  GCA_040719245.2_NCPPB4602v2_genomic.fna ==> GCA_040719245.2_NCPPB4602v2_genomic
+  2  GCA_041228055.1_NCPPB4692v1_genomic.fna ==> GCA_041228055.1_NCPPB4692v1_genomic
+  3  GCA_041228085.2_NCPPB935v2_ONT_genomic.fna ==> GCA_041228085.2_NCPPB935v2_ONT_genomic
+  4  GCA_041228105.1_NCPPB929v1_ONT_genomic.fna ==> GCA_041228105.1_NCPPB929v1_ONT_genomic
+  5  GCA_041228115.3_NCPPB3728v2_ONT_genomic.fna ==> GCA_041228115.3_NCPPB3728v2_ONT_genomic
+  6  GCA_041463605.1_NCPPB3796v1_ONT_genomic.fna ==> GCA_041463605.1_NCPPB3796v1_ONT_genomic
+  7  GCA_041463615.1_NCPPB3795v1_ONT_genomic.fna ==> GCA_041463615.1_NCPPB3795v1_ONT_genomic
+  8  GCA_041463625.1_NCPPB2372v1_ONT_genomic.fna ==> GCA_041463625.1_NCPPB2372v1_ONT_genomic
+  9  GCA_041463635.1_NCPPB3797v1_ONT_genomic.fna ==> GCA_041463635.1_NCPPB3797v1_ONT_genomic
+  10 GCA_041463645.1_NCPPB3887v1_ONT_genomic.fna ==> GCA_041463645.1_NCPPB3887v1_ONT_genomic
+  11 GCA_041463755.1_NCPPB3886v1_ONT_genomic.fna ==> GCA_041463755.1_NCPPB3886v1_ONT_genomic
+  12 GCA_041464225.1_NCPPB416v1_ONT_genomic.fna ==> GCA_041464225.1_NCPPB416v1_ONT_genomic
+  13 GCA_041484315.1_NCPPB1939v1_ONT_genomic.fna ==> GCA_041484315.1_NCPPB1939v1_ONT_genomic
+  14 GCA_041486685.1_NCPPB581_v2_ONT_genomic.fna ==> GCA_041486685.1_NCPPB581_v2_ONT_genomic
+  15 GCA_041489455.1_NCPPB3948v1_ONT_genomic.fna ==> GCA_041489455.1_NCPPB3948v1_ONT_genomic
+  16 GCA_041734835.1_NCPPB3727v1_ONT_genomic.fna ==> GCA_041734835.1_NCPPB3727v1_ONT_genomic
+  17 GCA_041734965.1_NCPPB3725v1_ONT_genomic.fna ==> GCA_041734965.1_NCPPB3725v1_ONT_genomic
+
+2025-09-02 19:35:43
+Running Basic statistics processor...
+  Contig files: 
+    1  GCA_040719245.2_NCPPB4602v2_genomic
+    2  GCA_041228055.1_NCPPB4692v1_genomic
+    3  GCA_041228085.2_NCPPB935v2_ONT_genomic
+    4  GCA_041228105.1_NCPPB929v1_ONT_genomic
+    5  GCA_041228115.3_NCPPB3728v2_ONT_genomic
+    6  GCA_041463605.1_NCPPB3796v1_ONT_genomic
+    7  GCA_041463615.1_NCPPB3795v1_ONT_genomic
+    8  GCA_041463625.1_NCPPB2372v1_ONT_genomic
+    9  GCA_041463635.1_NCPPB3797v1_ONT_genomic
+    10 GCA_041463645.1_NCPPB3887v1_ONT_genomic
+    11 GCA_041463755.1_NCPPB3886v1_ONT_genomic
+    12 GCA_041464225.1_NCPPB416v1_ONT_genomic
+    13 GCA_041484315.1_NCPPB1939v1_ONT_genomic
+    14 GCA_041486685.1_NCPPB581_v2_ONT_genomic
+    15 GCA_041489455.1_NCPPB3948v1_ONT_genomic
+    16 GCA_041734835.1_NCPPB3727v1_ONT_genomic
+    17 GCA_041734965.1_NCPPB3725v1_ONT_genomic
+  Calculating N50 and L50...
+    1  GCA_040719245.2_NCPPB4602v2_genomic, N50 = 2333875, L50 = 2, auN = 2294671.9, Total length = 6319119, GC % = 58.68, # N's per 100 kbp =  0.00
+    2  GCA_041228055.1_NCPPB4692v1_genomic, N50 = 5360179, L50 = 1, auN = 5152214.1, Total length = 5579236, GC % = 63.60, # N's per 100 kbp =  0.00
+    3  GCA_041228085.2_NCPPB935v2_ONT_genomic, N50 = 5226816, L50 = 1, auN = 5226816.0, Total length = 5226816, GC % = 65.47, # N's per 100 kbp =  0.00
+    4  GCA_041228105.1_NCPPB929v1_ONT_genomic, N50 = 5281458, L50 = 1, auN = 5281458.0, Total length = 5281458, GC % = 51.62, # N's per 100 kbp =  0.00
+    5  GCA_041228115.3_NCPPB3728v2_ONT_genomic, N50 = 3258212, L50 = 1, auN = 2702841.1, Total length = 5005335, GC % = 66.38, # N's per 100 kbp =  0.00
+    6  GCA_041463605.1_NCPPB3796v1_ONT_genomic, N50 = 4981726, L50 = 1, auN = 4910145.7, Total length = 5055457, GC % = 64.91, # N's per 100 kbp =  0.00
+    7  GCA_041463615.1_NCPPB3795v1_ONT_genomic, N50 = 4855905, L50 = 1, auN = 4751999.9, Total length = 4963467, GC % = 64.99, # N's per 100 kbp =  0.00
+    8  GCA_041463625.1_NCPPB2372v1_ONT_genomic, N50 = 4918520, L50 = 1, auN = 4854357.4, Total length = 4984018, GC % = 65.03, # N's per 100 kbp =  0.00
+    9  GCA_041463635.1_NCPPB3797v1_ONT_genomic, N50 = 4981740, L50 = 1, auN = 4907667.7, Total length = 5058119, GC % = 64.91, # N's per 100 kbp =  0.00
+    10 GCA_041463645.1_NCPPB3887v1_ONT_genomic, N50 = 5192841, L50 = 1, auN = 5117838.7, Total length = 5270109, GC % = 64.86, # N's per 100 kbp =  0.00
+    11 GCA_041463755.1_NCPPB3886v1_ONT_genomic, N50 = 5198422, L50 = 1, auN = 5123417.3, Total length = 5275690, GC % = 64.85, # N's per 100 kbp =  0.00
+    12 GCA_041464225.1_NCPPB416v1_ONT_genomic, N50 = 5228990, L50 = 1, auN = 5149282.0, Total length = 5310583, GC % = 65.23, # N's per 100 kbp =  0.00
+    13 GCA_041484315.1_NCPPB1939v1_ONT_genomic, N50 = 5389326, L50 = 1, auN = 5389326.0, Total length = 5389326, GC % = 65.93, # N's per 100 kbp =  0.00
+    14 GCA_041486685.1_NCPPB581_v2_ONT_genomic, N50 = 4951838, L50 = 1, auN = 4910248.8, Total length = 4994144, GC % = 64.96, # N's per 100 kbp =  0.00
+    15 GCA_041489455.1_NCPPB3948v1_ONT_genomic, N50 = 5095479, L50 = 1, auN = 5044128.4, Total length = 5147669, GC % = 64.69, # N's per 100 kbp =  0.00
+    16 GCA_041734835.1_NCPPB3727v1_ONT_genomic, N50 = 3574507, L50 = 1, auN = 2916550.0, Total length = 5275032, GC % = 66.41, # N's per 100 kbp =  0.00
+    17 GCA_041734965.1_NCPPB3725v1_ONT_genomic, N50 = 3616149, L50 = 1, auN = 2972255.0, Total length = 5276349, GC % = 66.39, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GC_content_plot.pdf
+  Drawing GCA_040719245.2_NCPPB4602v2_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_040719245.2_NCPPB4602v2_genomic_GC_content_plot.pdf
+  Drawing GCA_041228055.1_NCPPB4692v1_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041228055.1_NCPPB4692v1_genomic_GC_content_plot.pdf
+  Drawing GCA_041228085.2_NCPPB935v2_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041228085.2_NCPPB935v2_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041228105.1_NCPPB929v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041228105.1_NCPPB929v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041228115.3_NCPPB3728v2_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041228115.3_NCPPB3728v2_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041463605.1_NCPPB3796v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041463605.1_NCPPB3796v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041463615.1_NCPPB3795v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041463615.1_NCPPB3795v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041463625.1_NCPPB2372v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041463625.1_NCPPB2372v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041463635.1_NCPPB3797v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041463635.1_NCPPB3797v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041463645.1_NCPPB3887v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041463645.1_NCPPB3887v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041463755.1_NCPPB3886v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041463755.1_NCPPB3886v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041464225.1_NCPPB416v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041464225.1_NCPPB416v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041484315.1_NCPPB1939v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041484315.1_NCPPB1939v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041486685.1_NCPPB581_v2_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041486685.1_NCPPB581_v2_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041489455.1_NCPPB3948v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041489455.1_NCPPB3948v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041734835.1_NCPPB3727v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041734835.1_NCPPB3727v1_ONT_genomic_GC_content_plot.pdf
+  Drawing GCA_041734965.1_NCPPB3725v1_ONT_genomic GC content plot...
+    saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/basic_stats/GCA_041734965.1_NCPPB3725v1_ONT_genomic_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-09-02 19:35:50
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2025-09-02 19:35:52
+RESULTS:
+  Text versions of total report are saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/report.html
+  PDF version (tables and plots) is saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/report.pdf
+  Icarus (contig browser) is saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/icarus.html
+  Log is saved to /data/djs217/PROJECTS/43_PHRR_sequencing/phrr-bacterial-genome-sequencing/03_quast/quast_results/results_2025_09_02_19_35_36/quast.log
+
+Finished: 2025-09-02 19:35:52
+Elapsed time: 0:00:15.743796
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
