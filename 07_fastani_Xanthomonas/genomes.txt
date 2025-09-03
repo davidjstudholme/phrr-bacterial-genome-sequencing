@@ -1,0 +1,26 @@
+### Newly sequenced Xanthomonas
+GCA_041484315.1	   poinsettiicola	NCPPB	1939
+GCA_041489455.1	   poinsettiicola	NCPPB	3948
+GCA_041486685.1	   poinsettiicola	NCPPB	581
+GCA_041228085.2	   corylina		NCPPB	935
+GCA_041464225.1	   pruni		NCPPB	416
+GCA_041463755.1	   fici			NCPPB	3886
+GCA_041463645.1	   fici			NCPPB	3887
+GCA_041463635.1	   fici			NCPPB	3797
+GCA_041463625.1	   fici			NCPPB	2372
+GCA_041463615.1	   fici			NCPPB	3795
+GCA_041463605.1	   fici			NCPPB	3796
+GCA_041228055.1	   hydrangeae		NCPPB	4692
+
+### Reference sequences
+GCA_001401555.1_Xeu_LMG27970_genomic.fna	X. euvesicatoria pv. euvesicatoria LMG 27970 T
+GCA_002018575.1_ASM201857v1_genomic.fna		X. citri LMG 9322 T
+GCA_022749655.1_ASM2274965v1_genomic.fna	X. phaseoli ATCC 49119 T
+GCA_001401595.1_Xaa_LMG982_genomic.fna	  	X. axonopodis LMG 982 T
+GCA_905142475.1_LMG_31884_genomic.fna     	X. hydrangeae LMG 31884 T
+GCA_001013475.1_ASM101347v1_genomic.fna		X. arboricola CFBP 2528 T
+
+GCA_002939785.1	X. codiaei CFBP4690
+GCA_020879255.1	X. codiaei X203
+GCA_046365405.1	X. codiaei NCPPB 4350
+GCA_049059725.1	X. codiaei NCPPB 4406
