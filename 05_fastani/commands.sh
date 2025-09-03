@@ -19,3 +19,6 @@ conda env export > fastani_env.yaml
 
 fastANI --ql query_list.txt --rl ref_list-Pam.txt -o Pam-fastANI.short.out -t 6 --visualize --matrix
 fastANI --ql query_list.txt --rl ref_list-Psyr.txt -o Psyr-fastANI.short.out -t 6 --visualize --matrix
+fastANI --ql query_list.txt --rl ref_list-Pa.txt -o Pa-fastANI.short.out -t 6 --visualize --matrix
+
+
