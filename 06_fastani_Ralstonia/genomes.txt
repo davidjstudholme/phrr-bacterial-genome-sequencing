@@ -1,0 +1,32 @@
+
+### Ralstonia species complex type strains
+GCA_042684045.1	Ralstonia solanacearum	ICMP 5712
+GCA_000009125.1	Ralstonia pseudosolanacearum GMI1000
+GCA_002251695.1	Ralstonia solanacearum K60
+GCA_015910705.1	Ralstonia solanacearum NCPPB 325
+GCA_018243235.1	Ralstonia nicotianae   RS
+GCA_024925465.1	Ralstonia pseudosolanacearum	LMG 9673
+GCA_042432065.1	Ralstonia solanacearum		ICMP 5712
+GCA_042434295.1	Ralstonia solanacearum		NCAIM B.01459
+GCA_042647065.1	Ralstonia solanacearum		NCAIM B.01459
+GCA_042648205.1	Ralstonia solanacearum		ICMP 5712
+GCA_042685665.1	Ralstonia solanacearum		ICMP 5712
+GCA_919586305.1	Ralstonia pseudosolanacearum	LMG 9673
+
+### Ralstonia syzygii
+GCA_037101365.1	Ralstonia syzygii subsp. indonesiensis	MAFF 211271
+GCA_042494895.1	Ralstonia syzygii Br19
+GCA_018243215.1	Ralstonia syzygii LLRS-1
+GCA_029219945.1	Ralstonia syzygii BDBR229
+GCA_045257735.1	Ralstonia syzygii subsp. celebesensis	UGMSLYSS_Db01
+GCA_029219965.1	Ralstonia syzygii R24	 R24
+GCA_041734965.1	Ralstonia syzygii subsp. celebesensis	NCPPB 3725
+GCA_041734835.1	Ralstonia syzygii subsp. celebesensis	NCPPB 3727
+GCA_016743075.1	Ralstonia syzygii subsp. celebesensis	UGMSS_Db01
+GCA_041228115.3	Ralstonia syzygii subsp. celebesensis	NCPPB 3728
+GCA_002012345.1	blood disease bacterium A2-HR MARDI	A2-HR MARDI
+GCA_015910595.1	Ralstonia syzygii	NCPPB 3727
+GCA_015910655.1	Ralstonia syzygii	NCPPB 3445
+GCA_015910645.1	Ralstonia syzygii	NCPPB 3219
+GCA_046245135.1	Ralstonia syzygii subsp. celebesensis	      RKIBali001
+GCA_919592095.1	Ralstonia syzygii subsp. syzygii	      LMG 10661

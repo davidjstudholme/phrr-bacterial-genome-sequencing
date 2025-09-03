@@ -1,0 +1,2 @@
+Ralstonia_syzygii_subsp._syzygii_LMG_10661.fasta
+Ralstonia_syzygii_NCPPB_3727.fasta

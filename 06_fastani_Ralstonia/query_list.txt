@@ -1,0 +1,3 @@
+Ralstonia_syzygii_subsp._celebesensis_NCPPB_3725.fasta
+Ralstonia_syzygii_subsp._celebesensis_NCPPB_3727.fasta
+Ralstonia_syzygii_subsp._celebesensis_NCPPB_3728.fasta
