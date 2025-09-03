@@ -17,5 +17,5 @@ conda activate fastani_env
 conda list -n fastani_env > quast_env_packages.txt
 conda env export > fastani_env.yaml
 
-fastANI --ql query_list.txt --rl ref_list.txt -o all-versus-fastANI.short.out -t 6 --visualize --matrix
-
+fastANI --ql query_list.txt --rl ref_list-Pam.txt -o Pam-fastANI.short.out -t 6 --visualize --matrix
+fastANI --ql query_list.txt --rl ref_list-Psyr.txt -o Psyr-fastANI.short.out -t 6 --visualize --matrix

@@ -1,5 +1,0 @@
-Pam_CFBP_3205_T.fasta
-Pam_ICMP_3918_T.fasta
-Psyr_DSM_10604_T.fasta
-Psyr_ICMP_3023_T.fasta
-Psyr_KCTC_12500_T.fasta
